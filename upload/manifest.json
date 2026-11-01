@@ -1,0 +1,16 @@
+{
+    "type": "language_pack",
+    "name": "language-pack-bn-bd",
+    "full_code": "crm.language-pack-bn-bd",
+    "vendor": "crm",
+    "code": "bn-bd",
+    "title": "Bengali Language Pack (বাংলা)",
+    "native_name": "বাংলা",
+    "direction": "ltr",
+    "author": "Anton Barinov",
+    "version": "1.0.0",
+    "category": "localization",
+    "min_crm_version": "20260928.001",
+    "description": "TropaTT CRM বাংলা localization pack.",
+    "signature": "2c99f5737ddbd739899bb59c26a1855e634c54a15f40cb3d84250e3623e4c8a7"
+}

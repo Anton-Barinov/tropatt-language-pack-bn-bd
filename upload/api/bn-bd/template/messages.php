@@ -1,0 +1,33 @@
+<?php
+declare(strict_types=1);
+
+return array (
+  'task_list' => 'কাজ template list',
+  'task_created' => 'কাজ template created',
+  'task_detail' => 'কাজ template',
+  'task_updated' => 'কাজ template updated',
+  'task_deleted' => 'কাজ template deleted',
+  'project_list' => 'প্রকল্প template list',
+  'project_created' => 'প্রকল্প template created',
+  'project_detail' => 'প্রকল্প template',
+  'project_updated' => 'প্রকল্প template updated',
+  'project_deleted' => 'প্রকল্প template deleted',
+  'max_255' => 'Maximum 255 characters',
+  'payload_object' => 'payload field must be an object',
+  'not_found' => 'Template not found',
+  'empty_tasks' => 'No কাজ templates',
+  'empty_projects' => 'No প্রকল্প templates',
+  'load_error_tasks' => 'Failed to load কাজ templates',
+  'load_error_projects' => 'Failed to load প্রকল্প templates',
+  'btn_delete' => 'Excluir',
+  'created_task_notify' => 'কাজ template created',
+  'created_project_notify' => 'প্রকল্প template created',
+  'error_create' => 'তৈরি করুন ত্রুটি',
+  'confirm_delete_task' => 'মুছুন কাজ template?',
+  'confirm_delete_project' => 'মুছুন প্রকল্প template?',
+  'deleted_task_notify' => 'কাজ template deleted',
+  'deleted_project_notify' => 'প্রকল্প template deleted',
+  'error_delete' => 'মুছুন ত্রুটি',
+  'task_applied' => 'কাজ created from template',
+  'project_applied' => 'প্রকল্প created from template',
+);
